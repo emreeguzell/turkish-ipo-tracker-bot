@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import undetected_chromedriver as uc # Yeni kütüphanemiz eklendi
+import undetected_chromedriver as uc 
 from seleniumbase import Driver
 from seleniumbase import SB
 import google.generativeai as genai
